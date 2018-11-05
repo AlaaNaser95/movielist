@@ -1,0 +1,6 @@
+export const ADDMOVIE = "ADDMOVIE";
+export const WATCHMOVIE = "WATCHMOVIE";
+export const UNWATCHMOVIE = "UNWATCHMOVIE";
+export const DELETEMOVIE = "DELETEMOVIE";
+export const FILTERMOVIES = "FILTERMOVIES";
+export const FILTERWATCHED = "FILTERWATCHED";
